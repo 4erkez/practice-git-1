@@ -1,2 +1,3 @@
 My first line in project
 Paris is the capical of France
+changes to be committed & changes not staged for commit
